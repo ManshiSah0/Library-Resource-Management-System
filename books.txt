@@ -1,0 +1,5 @@
+9705,Head First Design Patterns,ram ,No
+9728,Introduction to Algorithms,Thomas,Yes
+9399,Python for Data Analysis,sneha,Yes
+123,FODS,prasant sir,Yes
+187,english,sulochana nepal,Yes

@@ -1,0 +1,3 @@
+manshi,Manshi sah,Librarian
+sumant,Sumant,Student
+aman,AMAN SAH,Student
